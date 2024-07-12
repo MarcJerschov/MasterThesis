@@ -1,0 +1,5 @@
+#Read me
+
+Dear Reader,
+This repository contains the source code for my Master's thesis at NOVA Information Management School (NOVA IMS). The analysis includes exploratory data analysis, the generation of association rules, the meta-analysis, the recommendation system and the hypotheses testing.
+Please ensure to run the Jupyter notebooks in the correct order, as dataframes and dictionaries are passed through pickle files between the scripts. Start by running the 01_Exploratory_and_AssociationRules.ipynb notebook. After successfully executing this notebook, proceed with the other two notebooks in sequence.
